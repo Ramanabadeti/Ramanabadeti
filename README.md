@@ -1,4 +1,4 @@
-# Hi, I'm Raman Abadeti 👋
+# Hi, I'm Ramana badeti 👋
 
 **Full-Stack Developer** building production-quality web apps with React, Node.js, and AI integration.
 
