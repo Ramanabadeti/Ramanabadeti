@@ -1,22 +1,26 @@
-# Hi, I'm Ramana badeti 👋
+# Hi, I'm Ramana Badeti 👋
 
-**Full-Stack Developer** building production-quality web apps with React, Node.js, and AI integration.
+**Full-Stack Developer** · MS Information Technology, University of Wisconsin Milwaukee · 3+ years experience building production web apps with React, Node.js, and AI integration.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%96%B6%20Visit-black?style=for-the-badge&logo=vercel)](https://portfolio-kbito88mo-ramana-badetis-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramana-badeti-5b617b197/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:vbadeti4@gmail.com)
 
 ---
 
 ## About Me
 
-- Building full-stack applications with real-time features, AI APIs, and clean UI
-- Comfortable across the entire stack — REST APIs, WebSockets, SSE streaming, JWT auth, SQLite
-- Focused on shipping things that actually work, with good UX and maintainable code
-- Open to full-time roles and freelance projects
+- Full-stack applications with real-time features (Socket.io), AI APIs (Claude), and SSE streaming
+- Comfortable across the entire stack — REST APIs, WebSockets, JWT auth, SQLite
+- MS in IT from UW Milwaukee (GPA 3.55) · Based in Milwaukee, WI · Open to US full-time roles
+- Available for on-site, hybrid, or remote opportunities
 
 ---
 
 ## Featured Projects
 
 ### [AI Code Reviewer](https://github.com/Ramanabadeti/ai-code-reviewer)
-> Claude AI reviews your code in real time — bugs, quality score, suggestions, and a refactored version streamed word-by-word.
+> Claude AI reviews your code in real time — bugs, quality score, suggestions, and a refactored version streamed word-by-word via Server-Sent Events.
 
 `React` `Node.js` `Anthropic Claude API` `Server-Sent Events` `SQLite`
 
@@ -63,5 +67,6 @@
 
 ## Connect
 
-- GitHub: [github.com/Ramanabadeti](https://github.com/Ramanabadeti)
-- Email: available on request
+- Portfolio: [portfolio-kbito88mo-ramana-badetis-projects.vercel.app](https://portfolio-kbito88mo-ramana-badetis-projects.vercel.app)
+- LinkedIn: [linkedin.com/in/ramana-badeti-5b617b197](https://www.linkedin.com/in/ramana-badeti-5b617b197/)
+- Email: [vbadeti4@gmail.com](mailto:vbadeti4@gmail.com)
