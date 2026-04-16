@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** · MS Information Technology, University of Wisconsin Milwaukee · 3+ years experience building production web apps with React, Node.js, and AI integration.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%96%B6%20Visit-black?style=for-the-badge&logo=vercel)]([https://portfolio-kbito88mo-ramana-badetis-projects.vercel.app](https://ramanabadeti.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%96%B6%20Visit-black?style=for-the-badge&logo=vercel)](https://ramanabadeti.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramana-badeti-5b617b197/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:vbadeti4@gmail.com)
 
